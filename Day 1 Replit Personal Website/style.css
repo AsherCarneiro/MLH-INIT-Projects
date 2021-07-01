@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700);
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("https://static.vecteezy.com/system/resources/previews/000/539/488/non_2x/abstract-colorful-modern-geometric-background-in-dynamic-shapes-composition-vector.jpg");
+	font-family: ubuntu;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background: #43eb8e;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+header img {
+  width: 50px;
+  background: white;
+  border-radius: 5px;
+  margin: 0 20px 0 40px;
+}
+
+article {
+  background: white;
+  border: 3px solid #68e0f5;
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+hr, article .date {
+  color: #a0a0a0;
+}
+
+.head-title{
+
+    color: rgb(138, 61, 226);
+}
+
+.head-sub{
+  
+    color: rgb(164, 104, 172);
+    
+}
+
+.article-img {
+    
+    height: 150px;
+    width: 250px;
+}
+
+
+
+
+
+
+
